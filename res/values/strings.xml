@@ -657,33 +657,29 @@
     <!-- Bookmarks -->
     <string-array name="bookmarks" translatable="false">
         <item>Google</item>
-        <item>http://www.google.com/</item>
+        <item>http://www.google.fr/</item>
         <item>Picasa</item>
         <item>http://picasaweb.google.com/m/viewer?source=androidclient</item>
-        <item>Yahoo!</item>
-        <item>http://www.yahoo.com/</item>
+        <item>Clust3r Blog</item>
+        <item>http://www.clust3r.fr/</item>
         <item>MSN</item>
-        <item>http://www.msn.com/</item>
+        <item>http://www.msn.fr/</item>
         <item>MySpace</item>
-        <item>http://www.myspace.com/</item>
+        <item>http://www.myspace.fr/</item>
         <item>Facebook</item>
-        <item>http://www.facebook.com/</item>
+        <item>http://www.facebook.fr/</item>
         <item>Wikipedia</item>
         <item>http://www.wikipedia.org/</item>
         <item>eBay</item>
         <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/index.html</item>
-        <item>NY Times</item>
-        <item>http://www.nytimes.com/</item>
-        <item>ESPN</item>
-        <item>http://espn.com/</item>
-        <item>Amazon</item>
-        <item>http://www.amazon.com/</item>
-        <item>Weather Channel</item>
-        <item>http://www.weather.com/</item>
-        <item>BBC</item>
-        <item>http://www.bbc.co.uk/</item>
+        <item>TF1</item>
+        <item>http://www.tf1.fr</item>
+        <item>Le monde</item>
+        <item>http://www.lemonde.fr/</item>
+        <item>Eurosport</item>
+        <item>http://www.eurosport.fr/</item>
+        <item>Mon A.E.</item>
+        <item>http://www.monae.fr/</item>
     </string-array>
 
     <!-- Bookmark name for Picasa website -->
